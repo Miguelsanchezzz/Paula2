@@ -1,0 +1,52 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html,
+body {
+ 
+  font-family:arial
+}
+
+.italic {
+  font-family: arial;
+}
+
+header {
+  font-size: 30px;
+  text-align: center;
+  font-family: arial;
+  font-weight: bold;
+  text-transform: ;
+  padding-bottom: 15px;
+  text-decoration: underline;
+}
+
+.d01 {
+  padding-top: 15px;
+  font-size: 10px
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 30px;
+}
+
+h3 {
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 30px;
+}
+
+.p01 {
+  font-size: 11px;
+}
+
